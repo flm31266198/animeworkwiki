@@ -1,0 +1,1 @@
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"![alt文本](amWiki/images/home_600.png=--c \"はじめまして！\")\n### 欢迎查看本文档\n—— **主要记录相关规范与后期制作相关文档**  \n\n相关维护以及纠正请联系[[冰凝咏叹调]](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=531266198&website=www.oicqzone.com)\n","timestamp":1590391678786}
